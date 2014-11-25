@@ -1,0 +1,19 @@
+{
+  "firebase": "glowing-torch-6881",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
+
+$this = $('this')
+$.ajax({
+	url:
+	method:
+	data: {data{status: liked}}
+	dataType: JSON
+	})
+
+$('#thumbup').on('click' upvoteFunction)

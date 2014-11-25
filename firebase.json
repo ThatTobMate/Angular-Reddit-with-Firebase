@@ -1,0 +1,10 @@
+{
+  "firebase": "glowing-torch-6881",
+  "public": "dist",
+  "rules": "security-rules.json",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
